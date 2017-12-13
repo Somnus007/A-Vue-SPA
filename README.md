@@ -10,6 +10,14 @@
 
 功能模块：首页、搜索功能、产品列表、分类切换、详情页、下拉刷新
 
-Get started:
+Get Started:
 
-<pre>git clone https://github.com/Somnus007/A-Vue-SPA.git</pre>
+<pre>
+  $ git clone https://github.com/Somnus007/A-Vue-SPA.git
+  
+  $ cd A-Vue-SPA
+  
+  $ npm install 
+  
+  $ npm start
+</pre>
